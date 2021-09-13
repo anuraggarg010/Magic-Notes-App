@@ -1,2 +1,2 @@
-# Magic-Notes-App
-In This You Can Make Notes  According to your Daily Needs.
+<h5> Kuch na karne se uljhane hoti he khud ko,<h5>
+<h5>Or kuch kar jane se uljhane hoti he bakiyo ko.<h5>
